@@ -1,0 +1,12 @@
+import React from 'react'
+
+export default function About() {
+  return (
+    <div>
+      <div className="container mt-5">
+        <h1 className='mb-4 text-center'>About Page</h1>
+        <p className='text-justify'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia est placeat voluptatibus dolore optio sint, alias quod, culpa ullam eveniet perspiciatis blanditiis debitis dolores officiis quas provident amet, molestias vero expedita rerum! Atque vel inventore voluptates beatae reiciendis, maxime explicabo nam tempore voluptatem qui pariatur quas laboriosam animi, facilis nobis minima perferendis aut eum adipisci deserunt exercitationem soluta sequi. Tempore eveniet sunt, quis doloremque non beatae ipsa magnam earum perspiciatis numquam quas consequatur, asperiores iste sint, expedita quod illo assumenda sapiente saepe cum. Porro quibusdam reprehenderit, ducimus odio, possimus quo rem autem quae sint eum iste doloremque explicabo ipsam numquam repellat quisquam tempora officiis nam quia deleniti? Facere temporibus fugiat quia, odit porro rerum possimus velit inventore fugit, aliquid quisquam perspiciatis laudantium amet aut perferendis maxime illum beatae labore dicta laborum. Temporibus itaque tempora non commodi cum quis minus totam ea ipsa porro consequatur nam, repellat illo enim fugiat ab id explicabo molestias fugit accusantium pariatur hic. Possimus laborum quas quo perspiciatis soluta doloremque enim mollitia ipsam quos omnis repellat molestiae vitae, ut, magnam similique velit et? Amet adipisci corporis non eaque rem, incidunt praesentium quisquam libero minima consectetur, quasi ad aspernatur facere, repellat atque at error. Repellendus, deleniti autem, molestiae iure velit cupiditate consequatur temporibus tenetur vero fugit sunt culpa voluptate, animi aliquid et commodi labore neque quasi. Quia dolorem quaerat a assumenda eum voluptatem odit eveniet repudiandae, provident ducimus. Tenetur sed vero maxime eaque veritatis saepe, explicabo quas architecto incidunt, quia officia dolor eveniet fugit accusamus nemo obcaecati impedit illo eos earum doloremque soluta? Veritatis saepe ducimus adipisci atque provident? Porro iusto aperiam fugit. Dolor, officiis possimus error odio iusto eveniet, impedit est quod voluptatum laborum harum similique vitae provident libero pariatur nostrum itaque repellat unde quia officia. Culpa sequi reprehenderit cupiditate quisquam dolores! Mollitia aliquid iusto consectetur.</p>
+      </div>
+    </div>
+  )
+}
